@@ -16,7 +16,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Indrajeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indrajeet-tripathy/)](https://www.linkedin.com/in/indrajeet-tripathy/)
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, Bootstrap, JAVASCRIPT, Nodejs, Mongodb, Reactjs, JQuery. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+Strong in design and integration with intuitive problem-solving skills. Proficient in TABLEAU, POWERBI, MSBI, INFORMATICA, SQL, PYTHON, R,. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level Business analyst with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mailto:indrajeettripathy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
